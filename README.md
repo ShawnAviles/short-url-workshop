@@ -1,2 +1,2 @@
-# shorty
+# short-urls
 Hacktober workshop
